@@ -19,4 +19,4 @@ Python programs to generate and read qrcodes 💯
 
 ##Done!? Thanks! 👌👌👌
 
-[Buy me a coffee] (https://www.buymeacoffee.com/billbenon 'Support my projects').
+[Buy me a coffee](https://www.buymeacoffee.com/billbenon 'Support my projects').
