@@ -18,3 +18,5 @@ Python programs to generate and read qrcodes 💯
 4. Read QR Code from webcam as save
 
 ##Done!? Thanks! 👌👌👌
+
+[Buy me a coffee] (https://www.buymeacoffee.com/billbenon 'Support my projects').
